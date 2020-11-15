@@ -8,7 +8,7 @@
 *Rails was created by David Heinemeier Hansson（DHH). He was born in Denmark in 1979. He created in 2003,  while he was working on the code base for Basecamp, a project management tool, by 37signals.David extracted Ruby on Rails and officially released it as open source code in July of 2004.*
 ### Rails philosophy
 *Rails is designed under two philosophies. The first one is Don't Repeat Yourself (DRY) and the second one is Convention over Configuration (CoC).*
-1. DRY (Don't Repeat Yourself.)
+1. **DRY (Don't Repeat Yourself.)**
 *is a principle of software development aimed at reducing repetition of software patterns,replacing it with abstractions or using data normalization to avoid redundancy.*
-2. CoC (Convention over Configuration.)
+2. **CoC (Convention over Configuration.)**
 *is a software design paradigm used by software frameworks that attempts to decrease the number of decisions that a developer using the framework is required to make without necessarily losing flexibility. The concept was introduced by David Heinemeier Hansson to describe the philosophy of the Ruby on Rails web framework, but is related to earlier ideas like the concept of "sensible defaults" and the principle of least astonishment in user interface design.*
