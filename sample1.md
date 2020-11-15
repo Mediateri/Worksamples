@@ -15,7 +15,7 @@
 ## The structure of Rails application
 *When you run rails new my_appName, many folders / files are created.
 Let’s take a look at the created folders and files. You do not have to keep track of all these folders and files at this time but there is a table that explains them(this table does not cover all of them).*
- [dir](dir.jpg)
+![dir](https://github.com/Mediateri/SampleforWork/blob/master/dir.jpg)
 Now let's explain the purpose of each directory
 
 * app − It organizes your application components. It's got subdirectories that hold the view (views and helpers), controller (controllers), and the backend business logic (models).
