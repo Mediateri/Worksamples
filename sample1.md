@@ -61,7 +61,12 @@ Apart from these directories, there will be two files available in demo director
 
 * **Rakefile** − This file is similar to Unix Makefile, which helps with building, packaging and testing the Rails code. This will be used by rake utility supplied along with the Ruby installation.
 ### THE MVC
-We have looked at the structure of folders but these folders need to have best on which they interact with each other. That is the reason why **MVC** was introduced. In other word MVC works in the background.
+We have looked at the structure of folders but these folders needs to have a way on which they interact with each other. That is the reason why **MVC** was introduced. In other word MVC works in the background.
+
+Look at the picture Below
+
+![4DzMEP](https://github.com/Mediateri/SampleforWork/blob/master/4DzMEP.jpg)
+
 
 
 
