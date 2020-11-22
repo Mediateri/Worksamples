@@ -8,5 +8,5 @@ Hello brother ...
 
 self is initially set to main, an instance of the Object class that is automatically created whenever a Ruby program is interpreted. The main object is the ‘top-level’ namespace of the program.
 > ```ruby 
-p self # the main object
-```
+> p self # the main object
+> ```
