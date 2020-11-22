@@ -117,7 +117,7 @@ Example:
 
 Route names are `snake_case`, and usually match the controller. Most of the time routes are plural and use the plural `resources`.
 
-http://edgeguides.rubyonrails.org/routing.html#singular-resources are a special case. These use the singular resource and a singular resource name. However, they still map to a plural controller by default!
+[singular-resources](http://edgeguides.rubyonrails.org/routing.html#singular-resources) are a special case. These use the singular resource and a singular resource name. However, they still map to a plural controller by default!
 
 Example:
 
@@ -141,7 +141,7 @@ Examples:
 
 # More resources
 
-* http://edgeguides.rubyonrails.org/active_record_basics.html#naming-conventions
+* [ActiveRecord naming and schema conventions (including magic column names)](http://edgeguides.rubyonrails.org/active_record_basics.html#naming-conventions)
 
-* https://teddicodes.files.wordpress.com/2015/02/railsnamingconventions.pdf
+* [Mind map of Rails conventions](https://teddicodes.files.wordpress.com/2015/02/railsnamingconventions.pdf)
 
