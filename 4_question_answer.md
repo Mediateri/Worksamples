@@ -10,24 +10,32 @@ so here I am going to help you with naming conversion of rails
 
 ## Database
 
-Database tables are always in lower cases. Table names are plural.
+Database tables are always written using `snake_case`. Table names are plural.
 
-Column names in the database use lower cases too, but are generally singular. and when you right names make sure to obey sql rules of database
+Column names in the database use `snake_case` too, but are generally singular. and when you right names make sure to obey sql rules of database
 
 
-| blogs       | 
+| my_blogs       | 
 | ------------- |
 | id      | 
 | blog_name      | 
-| blog_title | 
+| blog_title    |
+|blog_id      |
+
+|   blogs       | 
+| ------------- |
+| id      | 
+| blog_description | 
+ 
+  
 
 ## Model
 
-Model class names are written in starting with upper case(Blog) . These are singular, and will map automatically to the plural database table name.
+Model class names are written ussing `CamelCase` . These are singular, and will map automatically to the plural database table name.
 
-Model attributes and methods use lower case and match the column names in the database.
+Model attributes and methods use `snake_case` and match the column names in the database.
 
-Model files go in app/models/#{singular_model_name}.rb.
+Model files go in `app/models/#{singular_model_name}.rb`.
 
 Example:
 
